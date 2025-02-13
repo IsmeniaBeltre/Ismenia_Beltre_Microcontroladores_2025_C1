@@ -1,8 +1,9 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h> 
 
 // Definición de estados
-typedef enum {
+typedef enum { 
+
     ESTADO_INIT,
     ESTADO_CERRADO,
     ESTADO_ABIERTO,
